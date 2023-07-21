@@ -1,4 +1,4 @@
-# GameResultSender
+# Discord GameResultSender
 This is a simple script written for RW-HPS on linux with the following features:
 >Server daily restart based on system time (this will fix bugs caused by running the server for too long)
 
